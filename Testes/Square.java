@@ -51,6 +51,7 @@ public class Square {
 			sum[count] = n;
 			count++;
 		}
+		count = 0;
 		while(count < size) {
 			if(sum[0] != sum[count]) {
 				return false;
