@@ -1,0 +1,45 @@
+package com.br.amaro;
+
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.Scanner;
+
+public class Square {
+	
+	File file;
+	Scanner scan;
+	double sqr;
+	int[][] matrix;
+	
+	public void readFile() {
+		file = new File("C:\\Users\\Momberg\\Documents\\Amaro\\quadrado.txt");
+		try {
+			scan = new Scanner(file);
+			int size = sizeOfSquare(scan);
+			System.out.println(size);
+			matrix = new int[size][size];
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		}
+	}
+	
+	private int sizeOfSquare(File file) {
+		int size = 0;
+		int count = 0;
+		try {
+			scan = new Scanner(file);
+			while(scan.hasNextInt()) {
+				count++;
+				scan.nextInt();
+			}
+			sqr = Math.sqrt(Double.valueOf(count));
+			scan = new Scanner(file);
+			size = Integer.valueOf(size);
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		}
+		return size;
+	}
+		
+
+}

@@ -1,0 +1,14 @@
+package com.br.amaro;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Square squareFile = new Square();
+		int[][] matrix = squareFile.readFile();
+		if(squareFile.isAPerfectSquare(matrix)) {
+			
+		}
+	}
+
+}

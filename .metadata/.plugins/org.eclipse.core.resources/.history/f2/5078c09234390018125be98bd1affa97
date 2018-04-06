@@ -1,0 +1,13 @@
+package com.br.amaro;
+
+import java.io.FileNotFoundException;
+
+public class Main {
+
+	public static void main(String[] args) throws FileNotFoundException {
+		
+		Square squareFile = new Square();
+		squareFile.readFile();
+	}
+
+}
