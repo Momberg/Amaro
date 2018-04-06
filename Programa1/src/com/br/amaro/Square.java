@@ -11,7 +11,7 @@ public class Square {
 	int size;
 	
 	public int[][] readFile() {
-		file = new File("C:\\Users\\Momberg\\Documents\\Amaro\\quadrado.txt");
+		file = new File("C:\\Users\\gabriel.d.momberg\\Documents\\Teste\\quadrado.txt");
 		this.size = sizeOfSquare(file);
 		int col = 0;
 		int row = 0;
@@ -46,9 +46,14 @@ public class Square {
 			sum[count] = n;
 			count++;
 		}
-		if(sum[0] != sum[1]) {
-			return false;
+		count = 0;
+		while(count < size) {
+			if(sum[0] != sum[count]) {
+				return false;
+			}
+			count++;
 		}
+		
 		return true;
 	}
 	
