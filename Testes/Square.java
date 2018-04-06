@@ -51,8 +51,12 @@ public class Square {
 			sum[count] = n;
 			count++;
 		}
-		if(sum[0] != sum[1]) {
-			return false;
+		count = 0;
+		while(count < size) {
+			if(sum[0] != sum[count]) {
+				return false;
+			}
+			count++;
 		}
 		return true;
 	}
