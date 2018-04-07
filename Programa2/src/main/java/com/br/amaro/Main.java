@@ -1,14 +1,18 @@
 package com.br.amaro;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Main {
 
 	public static void main(String[] args) {
-		Product product = new Product();
+		ProductController productController = new ProductController();
+		List<Product> products = new ArrayList<Product>();
 		String teste = "";
-		teste = product.readFile();
-		System.out.println(teste);
-		product.parseToJson(teste);
-
+		teste = productController.readFile();
+		products = productController.parseToProduct(teste);
+		productController.compareCharacteristics(products);
+		productController.createFile(products);
 	}
 
 }

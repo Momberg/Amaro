@@ -11,7 +11,7 @@ public class Square {
 	int size;
 	
 	public int[][] readFile() {
-		file = new File("C:\\Users\\gabriel.d.momberg\\Documents\\Teste\\quadrado.txt");
+		file = new File("C:\\Users\\Momberg\\Documents\\Amaro\\quadrado.txt");
 		this.size = sizeOfSquare(file);
 		int col = 0;
 		int row = 0;

@@ -1,36 +1,48 @@
 package com.br.amaro;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
-
-import org.json.JSONArray;
-import org.json.JSONObject;
+import java.util.List;
 
 public class Product {
+	
+	private Integer id;
+	private String name;
+	private List<String> tags;
+	private List<Integer> tagsVector;
+	
+	public Product(Integer id, String name, List<String> tags) {
+		this.id = id;
+		this.name = name;
+		this.tags = tags;
+	}
+	
+	public Product() {
+	}
+	
+	public Integer getId() {
+		return id;
+	}
+	public void setId(Integer id) {
+		this.id = id;
+	}
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public List<String> getTags() {
+		return tags;
+	}
+	public void setTags(List<String> tags) {
+		this.tags = tags;
+	}
 
-	public String readFile() {
-		String result = "";
-		try {
-	        BufferedReader br = new BufferedReader(new FileReader("C:\\Users\\Momberg\\Documents\\Amaro\\produtos.txt"));
-	        StringBuilder sb = new StringBuilder();
-	        String line = br.readLine();
-	        while (line != null) {
-	            sb.append(line);
-	            line = br.readLine();
-	        }
-	        result = sb.toString();
-	    } catch(Exception e) {
-	        e.printStackTrace();
-	    }
-	    return result;
+	public List<Integer> getTagsVector() {
+		return tagsVector;
 	}
-	
-	public void parseToJson(String file) {
-		JSONObject jobj = new JSONObject(file);
-	    JSONArray jarr = new JSONArray(jobj.getJSONArray("products").toString());
-	    for(int i = 0; i < jarr.length(); i++) {
-	        System.out.println("Keyword: " + jarr.getString(i));
-	    }
+
+	public void setTagsVector(List<Integer> tagsVector) {
+		this.tagsVector = tagsVector;
 	}
-	
+
 }
