@@ -9,11 +9,11 @@ public class BuscarProdutosSimilares {
 		ProductController productController = new ProductController();
 		List<Product> products = new ArrayList<Product>();
 		String teste = "";
-		teste = productController.readFile(args);
+		teste = productController.readFile(args[0]);
 		products = productController.parseToProduct(teste);
 		productController.compareCharacteristics(products);
 		productController.createFile(products);
-		productController.findById(args);
+		productController.findById(args[1]);
 	}
 
 }

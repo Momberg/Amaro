@@ -14,10 +14,10 @@ import org.json.JSONObject;
 
 public class ProductController {
 
-	public String readFile(String[] args) {
+	public String readFile(String args) {
 		String result = "";
 		try {
-	        BufferedReader br = new BufferedReader(new FileReader(args[0]));
+	        BufferedReader br = new BufferedReader(new FileReader(args));
 	        StringBuilder sb = new StringBuilder();
 	        String line = br.readLine();
 	        while (line != null) {
@@ -111,15 +111,11 @@ public class ProductController {
 		}
 	}
 	
-	public void findById(String[] args) {
+	public void findById(String args) {
 		String result = "";
 		int id = 0;
-		id = Integer.valueOf(args[1]);
-		String temp = "";
-		temp = args[0];
-		args[0] = "C:\\produtosComAdicional.txt";
-		result = readFile(args);
-		args[0] = temp;
+		id = Integer.valueOf(args);
+		result = readFile("C:\\produtosComAdicional.txt");
 		List<Product> products = new ArrayList<Product>();
 	    products = parseToProduct(result);
 	    for (Product product : products) {
