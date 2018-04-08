@@ -5,6 +5,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 import org.json.JSONArray;
@@ -13,10 +14,10 @@ import org.json.JSONObject;
 
 public class ProductController {
 
-	public String readFile() {
+	public String readFile(String[] args) {
 		String result = "";
 		try {
-	        BufferedReader br = new BufferedReader(new FileReader("C:\\Users\\Momberg\\Documents\\Amaro\\produtos.txt"));
+	        BufferedReader br = new BufferedReader(new FileReader(args[0]));
 	        StringBuilder sb = new StringBuilder();
 	        String line = br.readLine();
 	        while (line != null) {
@@ -38,13 +39,24 @@ public class ProductController {
 	    for(int i = 0; i < jarray.length(); i++) {
 	        try {
 	        	List<String> tags = new ArrayList<String>();
+	        	List<Integer> tagsVector = new ArrayList<Integer>();
 	        	JSONArray tag = new JSONArray(jarray.getJSONObject(i).getJSONArray("tags").toString());
+	        	JSONArray tagVector = null;
+	        	if(jarray.getJSONObject(i).has("tagsVector")) {
+	        		tagVector = new JSONArray(jarray.getJSONObject(i).getJSONArray("tagsVector").toString());
+	        	}
 	        	for(int x = 0; x < tag.length(); x++) {
 	        		tags.add(tag.getString(x));
 	        	}
+	        	if(null != tagVector) {
+		        	for(int x = 0; x < tagVector.length(); x++) {
+		        			tagsVector.add(tagVector.getInt(x));
+		        	}
+	        	}
 	        	product = new Product(jarray.getJSONObject(i).getInt("id"),
 	        			jarray.getJSONObject(i).getString("name"),
-	        			tags);
+	        			tags, 
+	        			tagsVector);
 	        	products.add(product);
 			} catch (SecurityException e) {
 				e.printStackTrace();
@@ -96,6 +108,45 @@ public class ProductController {
 			writeFile.close();
 		} catch (IOException e) {
 			e.printStackTrace();
+		}
+	}
+	
+	public void findById(String[] args) {
+		String result = "";
+		int id = 0;
+		id = Integer.valueOf(args[1]);
+		result = readFile(args);
+		List<Product> products = new ArrayList<Product>();
+	    products = parseToProduct(result);
+	    for (Product product : products) {
+			if(id == product.getId()) {
+				System.out.println("Os três produtos mais similares ao produto " + product.getId() + " (" + product.getName() + ") sao:");
+				calculateProducts(products, product);
+			}
+		}
+	}
+	
+	private void calculateProducts(List<Product> products, Product product) {
+		double S = 0;
+		double D = 0;
+		List<Product> finalPrds = new ArrayList<Product>();
+		List<Integer> v1 = new ArrayList<Integer>();
+		List<Integer> v2 = new ArrayList<Integer>();
+		for (Product prd : products) {
+			if(product.getId() != prd.getId()) {
+				v1 = product.getTagsVector();
+				v2 = prd.getTagsVector();
+				for(int x = 0; x < product.getTagsVector().size(); x++) {
+					D += (v1.get(x) - v2.get(x))^2;
+				}
+				S = 1/(1 + Math.sqrt(D));
+				prd.setS(S);
+				finalPrds.add(prd);
+			}
+		}
+		Collections.sort(finalPrds);
+		for(int x = finalPrds.size() - 1; x != (finalPrds.size() - 4); x--) {
+			System.out.println(finalPrds.get(x).getId() + " " + finalPrds.get(x).getName() + String.format( " %.2f", finalPrds.get(x).getS() ));
 		}
 	}
 	

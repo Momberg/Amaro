@@ -2,17 +2,19 @@ package com.br.amaro;
 
 import java.util.List;
 
-public class Product {
+public class Product implements Comparable<Product> {
 	
 	private Integer id;
 	private String name;
 	private List<String> tags;
 	private List<Integer> tagsVector;
+	private double S;
 	
-	public Product(Integer id, String name, List<String> tags) {
+	public Product(Integer id, String name, List<String> tags, List<Integer> tagsVector) {
 		this.id = id;
 		this.name = name;
 		this.tags = tags;
+		this.tagsVector = tagsVector;
 	}
 	
 	public Product() {
@@ -43,6 +45,18 @@ public class Product {
 
 	public void setTagsVector(List<Integer> tagsVector) {
 		this.tagsVector = tagsVector;
+	}
+
+	public double getS() {
+		return S;
+	}
+
+	public void setS(double s) {
+		S = s;
+	}
+
+	public int compareTo(Product o) {
+		return 0;
 	}
 
 }

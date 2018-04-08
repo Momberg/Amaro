@@ -1192,3 +1192,523 @@
 2018-04-07 16:19:18,685 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
 2018-04-07 16:21:38,774 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-04-07 16:21:38,774 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-07 16:21:38,774 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-07 16:21:38,774 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:15:41,539 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:15:41,539 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:15:41,539 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:15:41,540 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:16:33,867 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:16:33,867 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:16:33,867 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:16:33,868 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:17:03,633 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:17:03,633 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:17:03,633 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:17:03,633 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:17:30,687 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:17:30,688 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:17:30,688 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:17:30,688 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:17:36,652 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:17:36,652 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:17:36,652 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:17:36,652 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:18:10,764 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:18:10,764 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:18:10,764 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:18:10,764 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:18:17,666 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:18:17,666 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:18:17,666 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:18:17,666 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:18:22,439 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:18:22,439 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:18:22,440 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:18:22,440 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:18:49,378 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:18:49,379 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:18:49,379 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:18:49,379 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:18:59,343 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:18:59,343 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:18:59,343 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:18:59,344 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:19:05,309 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:19:05,309 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:19:05,310 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:19:05,310 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:20:20,994 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:20:20,994 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:20:20,994 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:20:20,996 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:20:35,161 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:20:35,161 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:20:35,161 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:20:35,161 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:21:44,506 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:21:44,506 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:21:44,507 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:21:44,507 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:23:01,929 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:23:01,929 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:23:01,930 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:23:01,930 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:23:39,083 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:23:39,083 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:23:39,083 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:23:39,083 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:24:10,938 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:24:10,938 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:24:10,938 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:24:10,938 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:24:15,289 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:24:15,289 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:24:15,289 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:24:15,289 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:24:17,700 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:24:17,701 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:24:17,701 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:24:17,701 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:24:43,085 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:24:43,086 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:24:43,086 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:24:43,086 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:24:55,208 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:24:55,208 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:24:55,208 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:24:55,208 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:25:00,034 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:25:00,035 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:25:00,035 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:25:00,035 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:25:10,881 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:25:10,882 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:25:10,882 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:25:10,882 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:25:25,745 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:25:25,745 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:25:25,746 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:25:25,746 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:25:30,314 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:25:30,315 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:25:30,315 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:25:30,315 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:25:34,802 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:25:34,802 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:25:34,803 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:25:34,803 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:25:44,532 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:25:44,533 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:25:44,533 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:25:44,533 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:25:48,282 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:25:48,282 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:25:48,283 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:25:48,283 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:28:18,998 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:28:18,999 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:28:18,999 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:28:18,999 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:28:27,023 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:28:27,023 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:28:27,024 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:28:27,024 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:28:46,852 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:28:46,852 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:28:46,853 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:28:46,853 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:30:07,508 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:30:07,508 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:30:07,508 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:30:07,508 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:30:23,203 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:30:23,203 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:30:23,203 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:30:23,203 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:33:38,011 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:33:38,011 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:33:38,012 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:33:38,012 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:34:47,064 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:34:47,064 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:34:47,064 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:34:47,064 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:36:02,539 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:36:02,539 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:36:02,539 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:36:02,539 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:36:16,525 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:36:16,525 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:36:16,525 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:36:16,526 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:36:24,010 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:36:24,010 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:36:24,011 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:36:24,011 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:36:29,901 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:36:29,901 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:36:29,901 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:36:29,901 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:57:02,694 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:57:02,694 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:57:02,694 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:57:02,695 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:57:04,507 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:57:04,507 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:57:04,508 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:57:04,508 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:57:14,675 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:57:14,675 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:57:14,675 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:57:14,675 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:57:47,006 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:57:47,007 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:57:47,007 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:57:47,007 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:58:01,998 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:58:01,998 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:58:01,999 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:58:01,999 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:58:12,419 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:58:12,420 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:58:12,420 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:58:12,420 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:58:23,348 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:58:23,348 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:58:23,348 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:58:23,348 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:58:47,382 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:58:47,382 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:58:47,382 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:58:47,382 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:59:01,138 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:59:01,138 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:59:01,138 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:59:01,138 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 00:59:34,844 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:59:34,844 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 00:59:34,844 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 00:59:34,844 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:00:22,358 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:00:22,358 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:00:22,358 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:00:22,358 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:00:29,380 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:00:29,381 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:00:29,381 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:00:29,381 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:04:01,476 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:04:01,476 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:04:01,477 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:04:01,477 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:04:35,054 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:04:35,054 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:04:35,054 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:04:35,054 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:05:06,003 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:05:06,003 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:05:06,004 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:05:06,004 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:05:28,609 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:05:28,609 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:05:28,609 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:05:28,609 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:06:17,671 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:06:17,671 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:06:17,671 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:06:17,671 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:06:26,711 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:06:26,711 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:06:26,711 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:06:26,711 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:06:53,729 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:06:53,729 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:06:53,730 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:06:53,730 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:07:25,947 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:07:25,947 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:07:25,947 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:07:25,947 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:07:38,786 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:07:38,786 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:07:38,787 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:07:38,787 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:08:09,226 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:08:09,226 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:08:09,227 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:08:09,227 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:09:08,902 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:09:08,902 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:09:08,903 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:09:08,903 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:09:18,431 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:09:18,432 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:09:18,432 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:09:18,432 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:10:27,476 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:10:27,476 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:10:27,477 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:10:27,477 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:14:41,786 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:14:41,786 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:14:41,786 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:14:41,786 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:14:48,426 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:14:48,426 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:14:48,426 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:14:48,426 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:15:26,105 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:15:26,105 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:15:26,106 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:15:26,106 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:15:52,987 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:15:52,987 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:15:52,987 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:15:52,987 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:16:08,830 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:16:08,830 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:16:08,830 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:16:08,831 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:16:12,746 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:16:12,746 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:16:12,747 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:16:12,747 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:16:57,818 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:16:57,818 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:16:57,818 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:16:57,818 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:17:03,666 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:17:03,666 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:17:03,667 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:17:03,667 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:17:20,158 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:17:20,158 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:17:20,158 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:17:20,158 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:17:54,474 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:17:54,474 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:17:54,474 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:17:54,475 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:18:22,275 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:18:22,275 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:18:22,275 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:18:22,275 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:21:16,628 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:21:16,628 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:21:16,629 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:21:16,629 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:21:22,617 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:21:22,617 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:21:22,617 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:21:22,618 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:22:24,963 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:22:24,963 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:22:24,963 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:22:24,963 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:26:52,693 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:26:52,693 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:26:52,693 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:26:52,693 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:28:05,252 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:28:05,252 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:28:05,252 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:28:05,252 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:28:21,906 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:28:21,906 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:28:21,907 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:28:21,907 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:28:33,428 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:28:33,428 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:28:33,428 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:28:33,428 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:30:00,899 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:30:00,899 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:30:00,899 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:30:00,899 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:30:34,692 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:30:34,692 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:30:34,692 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:30:34,692 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:32:11,943 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:32:11,943 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:32:11,943 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:32:11,943 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:37:19,275 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:37:19,276 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:37:19,276 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:37:19,276 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:38:32,858 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:38:32,858 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:38:32,858 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:38:32,858 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:39:23,402 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:39:23,402 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:39:23,403 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:39:23,403 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:39:32,525 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:39:32,525 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:39:32,526 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:39:32,526 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:39:53,843 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:39:53,844 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:39:53,844 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:39:53,844 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:40:06,775 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:40:06,775 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:40:06,776 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:40:06,776 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:40:28,139 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:40:28,140 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:40:28,140 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:40:28,140 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:40:57,916 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:40:57,916 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:40:57,916 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:40:57,917 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:43:00,657 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:43:00,657 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:43:00,658 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:43:00,658 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:46:55,997 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:46:55,997 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:46:55,998 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:46:55,998 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:47:22,496 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:47:22,497 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:47:22,497 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:47:22,497 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:47:47,829 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:47:47,829 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:47:47,830 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:47:47,830 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:47:55,084 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:47:55,084 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:47:55,084 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:47:55,084 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:47:59,647 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:47:59,647 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:47:59,647 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:47:59,647 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:48:12,282 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:48:12,282 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:48:12,282 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:48:12,282 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:48:59,669 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:48:59,669 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:48:59,669 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:48:59,669 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:49:30,050 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:49:30,050 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:49:30,051 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:49:30,051 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:49:37,668 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:49:37,668 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:49:37,669 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:49:37,669 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:49:49,681 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:49:49,681 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:49:49,681 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:49:49,681 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:51:07,719 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:51:07,719 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:51:07,719 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:51:07,720 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:53:37,323 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:53:37,323 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:53:37,323 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:53:37,323 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:53:40,188 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:53:40,188 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:53:40,188 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:53:40,188 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:53:50,216 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:53:50,216 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:53:50,216 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:53:50,216 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:54:16,923 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:54:16,923 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:54:16,924 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:54:16,924 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:54:34,540 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:54:34,540 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:54:34,540 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:54:34,540 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:54:51,806 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:54:51,806 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:54:51,806 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:54:51,806 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:55:03,898 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:55:03,898 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:55:03,898 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:55:03,898 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:55:13,595 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:55:13,595 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:55:13,596 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:55:13,596 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:55:53,564 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:55:53,564 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:55:53,564 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:55:53,564 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:56:44,196 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:56:44,196 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:56:44,196 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:56:44,196 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:56:47,710 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:56:47,710 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:56:47,711 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:56:47,711 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:57:51,000 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:57:51,000 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:57:51,000 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:57:51,001 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:57:54,430 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:57:54,430 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:57:54,430 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:57:54,430 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:58:12,783 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:58:12,783 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:58:12,783 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:58:12,783 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:58:59,982 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:58:59,982 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:58:59,982 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:58:59,982 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:59:14,755 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:59:14,755 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:59:14,755 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:59:14,755 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:59:45,560 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:59:45,560 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:59:45,560 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:59:45,561 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 01:59:49,728 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:59:49,728 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 01:59:49,728 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 01:59:49,728 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 02:00:01,778 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 02:00:01,778 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 02:00:01,779 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 02:00:01,779 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 02:00:04,996 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 02:00:04,996 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 02:00:04,996 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 02:00:04,996 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 02:00:09,474 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 02:00:09,474 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 02:00:09,475 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 02:00:09,475 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 02:00:27,049 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 02:00:27,049 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 02:00:27,049 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 02:00:27,050 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 02:00:30,668 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 02:00:30,668 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 02:00:30,668 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 02:00:30,668 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 02:00:40,313 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 02:00:40,313 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
+2018-04-08 02:00:40,314 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 02:00:40,314 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\test\resources
+2018-04-08 02:00:53,128 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-08 02:00:53,128 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Momberg\Documents\Amaro\git\Amaro\Programa2\src\main\resources
