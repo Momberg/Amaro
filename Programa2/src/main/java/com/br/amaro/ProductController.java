@@ -103,7 +103,7 @@ public class ProductController {
 		obj = new JSONObject();
 		obj.put("products", file);
 		try {
-			FileWriter writeFile = new FileWriter("C:\\Users\\gabri\\Documents\\produtosComAdicional.txt");
+			FileWriter writeFile = new FileWriter("C:\\produtosComAdicional.txt");
 			writeFile.write(obj.toString());
 			writeFile.close();
 		} catch (IOException e) {
@@ -117,7 +117,7 @@ public class ProductController {
 		id = Integer.valueOf(args[1]);
 		String temp = "";
 		temp = args[0];
-		args[0] = "C:\\Users\\gabri\\Documents\\produtosComAdicional.txt";
+		args[0] = "C:\\produtosComAdicional.txt";
 		result = readFile(args);
 		args[0] = temp;
 		List<Product> products = new ArrayList<Product>();
