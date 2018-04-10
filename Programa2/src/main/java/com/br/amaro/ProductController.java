@@ -103,7 +103,7 @@ public class ProductController {
 		obj = new JSONObject();
 		obj.put("products", file);
 		try {
-			FileWriter writeFile = new FileWriter("C:\\produtosComAdicional.txt");
+			FileWriter writeFile = new FileWriter("C:\\Users\\gabriel.d.momberg\\Documents\\git\\produtosComAdicional.txt");
 			writeFile.write(obj.toString());
 			writeFile.close();
 		} catch (IOException e) {
@@ -115,7 +115,7 @@ public class ProductController {
 		String result = "";
 		int id = 0;
 		id = Integer.valueOf(args);
-		result = readFile("C:\\produtosComAdicional.txt");
+		result = readFile("C:\\Users\\gabriel.d.momberg\\Documents\\git\\produtosComAdicional.txt");
 		List<Product> products = new ArrayList<Product>();
 	    products = parseToProduct(result);
 	    for (Product product : products) {
@@ -133,11 +133,13 @@ public class ProductController {
 		List<Integer> v1 = new ArrayList<Integer>();
 		List<Integer> v2 = new ArrayList<Integer>();
 		for (Product prd : products) {
+			D = 0;
+			S = 0;
 			if(product.getId() != prd.getId()) {
 				v1 = product.getTagsVector();
 				v2 = prd.getTagsVector();
 				for(int x = 0; x < product.getTagsVector().size(); x++) {
-					D += (v1.get(x) - v2.get(x))^2;
+					D += Math.pow((v1.get(x) - v2.get(x)), 2);
 				}
 				S = 1/(1 + Math.sqrt(D));
 				prd.setS(S);
@@ -145,7 +147,7 @@ public class ProductController {
 			}
 		}
 		Collections.sort(finalPrds);
-		for(int x = finalPrds.size() - 1; x != (finalPrds.size() - 4); x--) {
+		for(int x = 0; x < 3; x++) {
 			System.out.println(finalPrds.get(x).getId() + " " + finalPrds.get(x).getName() + String.format( " com S= %.2f", finalPrds.get(x).getS() ));
 		}
 	}
